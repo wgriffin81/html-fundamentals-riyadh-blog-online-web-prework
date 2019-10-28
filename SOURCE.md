@@ -65,6 +65,65 @@ LINK 2
 `http://en.wikipedia.org/wiki/Riyadh`
 
 
+def game_hash
+  {}
+end
 
+def num_points_scored(sought_player_name)
+ 
+end
+
+def shoe_size(sought_player_name)
+  
+end
+
+def team_colors(team_name)
+  
+end
+
+def team_names
+ 
+end
+
+def player_numbers(team_name)
+  
+end
+
+def player_stats(sought_player_name)
+  
+end
+
+def big_shoe_rebounds
+ 
+end
+
+# # Bonus Questions
+
+
+def iterate_through_players_for(name, statistic)
+ 
+end
+
+def player_with_most_of(statistic)
+  
+end
+
+def most_points_scored
+  
+end
+
+def winning_team
+ 
+end
+
+def player_with_longest_name
+  
+end
+
+# # Super Bonus Question
+
+def long_name_steals_a_ton?
+  
+end
 
 
